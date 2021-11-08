@@ -1,0 +1,19 @@
+<!--
+# Copyright (c) 1996 - 2005 by Oracle Corporation. All Rights Reserved. \
+# $
+#
+# NAME
+#   lx0boot.nlt
+# DESCRIPTION
+#   Standard boot file for NLSRTL.
+# NOTES
+#
+-->
+<NLSBOOT
+  xmlns="http://www.example.com/NLS"
+  xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.example.com/NLS lx0boot.xsd"
+  >
+    <VERSION>3.0.0.0.0</VERSION>
+    <LINGUISTIC_DEFINITION id="1002">PERSIAN_SORT</LINGUISTIC_DEFINITION>
+</NLSBOOT>
